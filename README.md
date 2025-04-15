@@ -1,4 +1,4 @@
-# Projeto Oracle Apex patrimônio
+# Projeto Oracle Apex patrimônio (portfólio)
 
 Tive a missão de desenvolver para prefeitura de Jõao Pessoa/PB em oracle Apex, dois aplicativos para controlar os ativos juntamente com leitor RFID também desenvolvido por mim e
 disponível [AQUI!](https://github.com/dev-daniel-amorim/RFID_UHF/blob/main/README.md)
@@ -13,12 +13,24 @@ geração do patrimônio, distribuição dos ativos entre os setores, geranciame
 e controle de inventário periódicos.
 
 # Software Patrimônio Desktop
-## Login
+### Login
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da4c4566-8691-4718-880f-042bbb0e9e33" width="30%" />
+  <img src="https://github.com/user-attachments/assets/c3cdfe6a-9c7d-4a65-8ccc-0208bf8b769a" width="30%" />
 </p>
-Os usuários são cadastrados previamente com email e cpf e uma senha padrão que podem ser mudadas no primeiro acesso.
+Os usuários são cadastrados previamente com email e cpf e uma senha padrão que pode ser mudada no primeiro acesso.
+
+### Página principal
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ab8bd39f-0486-447d-ba9f-31f7dac9e112" width="60%" />
+</p>
+
+
+### Menu da página principal
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/47507ae9-75cd-4862-bca0-de5274be46ce" width="60%" />
+</p>
+
 
 
 <hr>
