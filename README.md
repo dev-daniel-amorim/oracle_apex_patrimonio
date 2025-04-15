@@ -9,7 +9,7 @@ O sistema de patrimônio é dividido em duas aplicações:
 RFID para o banco oracle ([mais detalhes clique aqui](https://github.com/dev-daniel-amorim/RFID_UHF/blob/main/README.md)).
 
 - PATRIMÔNIO DESKTOP: O aplicativo DESKTOP controla todos os ativos, desde a criação do empenho, leitura das notas fiscais XML para geração dos tombamentos consequentemente
-geração do patrimônio, distribuição dos ativos entre os setores, geranciamento da movimentação dos ativos, transferências, controle de baixas, manutenções, depreciação sessão de uso
+geração do patrimônio, distribuição dos ativos entre os setores, geranciamento da movimentação dos ativos, transferências, controle de baixas, manutenções, depreciação cessão de uso
 e controle de inventário periódicos.
 
 # Software Patrimônio Desktop
@@ -25,12 +25,19 @@ Os usuários são cadastrados previamente com email e cpf e uma senha padrão qu
   <img src="https://github.com/user-attachments/assets/ab8bd39f-0486-447d-ba9f-31f7dac9e112" width="60%" />
 </p>
 
+Na página principal o usuário tem acesso direto à informações de seu setor de lotação como:
+- Transferências pendentes
+- Recebomentos pendentes;
+- Total de equipamentos (do seu setor);
+- Eventos;
+- Cessão de uso;
+- Não localizados.
 
 ### Menu da página principal
 <p align="center">
   <img src="https://github.com/user-attachments/assets/47507ae9-75cd-4862-bca0-de5274be46ce" width="60%" />
 </p>
-
+No mega menu, o usuário consegue ver todo o mapa da aplicação e nele é possível navegar entre todas as telas da aplicação.
 
 
 <hr>
